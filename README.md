@@ -10,23 +10,24 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
+import module robot from robomaster.
 <br/>
 
 Step2:
-
+Choose the x,y,z - axis movement distance (meters)
 <br/>
 
 Step3:
-
+Give ep_chases.move to move straight.
 <br/>
 
 Step4:
-
+Give time.sleep() for break
 <br/>
 
 Step5:
-
+Give ep_led for color in led.
+<br/>
 <br/>
 
 ## Program
@@ -113,6 +114,13 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
+### start image:
+
+![](./start.jpeg)
+
+### end image:
+
+![](./end.jpeg)
 
 
 <br/>
